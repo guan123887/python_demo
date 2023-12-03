@@ -1,0 +1,5 @@
+In this tutorial, you’ll learn about Python operator precedence and associativity. 
+This topic is crucial for programmers to understand the semantics of Python operators.
+After reading it, you should be able to know how Python evaluates the order of its operators. 
+Some operators have higher precedence than others such as the multiplication operator has higher priority than the addition operator, 
+so do multiplication before addition.
